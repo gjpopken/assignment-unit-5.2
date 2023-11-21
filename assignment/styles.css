@@ -1,0 +1,16 @@
+* {
+    border: 1px solid black;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+header {
+    background-color: darkslategrey;
+    color: bisque;
+}
+
+main {
+    background-color: lightgrey;
+}

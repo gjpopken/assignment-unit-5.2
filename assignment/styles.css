@@ -7,11 +7,16 @@
 .info {
     background-color: darkslategrey;
     color: bisque;
+    padding: 10px;
+    width: 400px;
+    margin: 15px auto;
 }
 
 .text {
     background-color: lightgrey;
     padding: 1em;
+    width: 400px;
+    margin: auto;
 }
 
 

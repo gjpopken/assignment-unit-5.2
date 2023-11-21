@@ -1,20 +1,25 @@
-* {
-    border: 1px solid black;
-}
 
-h1, h2 {
+
+.centeredText {
     text-align: center;
 }
 
-header {
+.info {
     background-color: darkslategrey;
     color: bisque;
 }
 
-main {
+.text {
     background-color: lightgrey;
+    padding: 1em;
 }
 
-body {
+
+body { /* got background img info from https://www.delftstack.com/howto/css/background-image-not-showing-css/#google_vignette*/
     background-image: url("record.png");
+    background-size: 15%;
+    background-position: center;
+    background-repeat: repeat;
+    margin: 0;
+    
 }
